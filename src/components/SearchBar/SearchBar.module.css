@@ -1,0 +1,26 @@
+.container {
+ 
+    text-align: center;
+   
+}
+
+.Boton {
+ color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 9px; border-radius: 15px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(243, 247, 5) 0%, rgb(203, 164, 35) 50%, rgb(212, 183, 18) 100%); box-shadow: rgb(199, 90, 18) 5px 5px 15px 5px; border: 2px solid rgb(204, 116, 1); display: inline-block;}
+ .myButton:hover {
+ background: #ffee017e; }
+ .myButton:active {
+ background: #dd5e3e; 
+
+ }
+
+ .BotonSearch {
+    /* color: rgb(255, 255, 255); font-size: 16px; line-height: 16px; padding: 9px; border-radius: 15px */
+    font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: linear-gradient(to right, rgb(243, 247, 5) 0%, rgb(203, 164, 35) 50%, rgb(212, 183, 18) 100%); box-shadow: rgb(199, 90, 18) 5px 5px 15px 5px; border: 2px solid rgb(204, 116, 1); display: inline-block;}
+    
+
+.Contenedor {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+
+}
